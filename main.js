@@ -12,3 +12,6 @@ function files(){
         document.getElementById("camera").style.height="0px";
         document.getElementById("camera").style.visibility="hidden";
 }
+function disapear(){
+    document.getElementById("disappear").innerHTML=""
+}
